@@ -1,0 +1,7 @@
+Si crei un costruttore nella classe Quadrato dell’esercizio 2.d, che prenda in input il valore 
+della variabile lato. 
+
+Dopo aver finito, si compili la classe Quadrato. La classe TestQuadrato invece, non compilerà 
+più per via dell’istruzione specificata sopra e per il mancato utilizzo del nuovo costruttore. 
+
+Si modifichi il codice della classe TestQuadrato in modo tale che compili e sia eseguita correttamente.

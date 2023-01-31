@@ -1,0 +1,2 @@
+In questa cartella sono presenti tutti gli esercizi pratici fatti con l'IDE dedicato a JAVA, 
+compilati per capitolo e con la spiegazione specifica per ogni progetto

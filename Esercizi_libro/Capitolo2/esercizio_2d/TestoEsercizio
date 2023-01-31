@@ -1,0 +1,10 @@
+Creare una classe Quadrato, che dichiari una variabile d’istanza intera lato.
+
+Quindi creare un metodo pubblico che si chiami perimetro e che ritorni il perimetro del quadrato,
+ e un metodo pubblico area che ritorni l’area del quadrato.
+ 
+Ricordiamo per chi lo avesse dimenticato, che il perimetro è la somma dei lati del quadrato,
+mentre l’area si calcola moltiplicando il lato per sé stesso. 
+
+Creare una classe TestQuadrato che contenga un metodo main che istanzi un oggetto di tipo Quadrato,
+ con lato di valore 5. Quindi stampare il perimetro e l’area dell’oggetto appena creato.

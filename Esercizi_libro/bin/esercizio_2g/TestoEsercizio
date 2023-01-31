@@ -1,0 +1,4 @@
+Nella classe Quadrato creata nell’esercizio 2.d, sostituire il valore 4 usato per calcolare il 
+perimetro, con una costante d’istanza NUMERO_LATI
+
+Questo non dovrebbe influire sulla classe TestQuadrato.

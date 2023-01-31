@@ -1,0 +1,12 @@
+a classe NumeroIntero.java definisce il concetto di numero intero come oggetto. 
+
+In essa vengono dichiarati unavariabile intera ed un metodo che stamperà la variabile stessa.
+
+Scrivere, compilare ed eseguire una classe che:
+
+1. istanzierà almeno due oggetti dalla classe NumeroIntero (contenente un metodo main);
+
+2. cambierà il valore delle relative variabili e testerà la veridicità delle avvenute assegnazioni,
+sfruttando il metodo stampaNumero;
+
+3. aggiungerà un costruttore alla classe NumeroIntero che inizializzi la variabile d’istanza
