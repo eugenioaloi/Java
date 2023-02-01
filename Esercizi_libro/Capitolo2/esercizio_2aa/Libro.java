@@ -12,11 +12,7 @@ public class Libro {
 		autore= aut;
 		System.out.println("Costruito un nuovo libro");
 	}
-	
-	public void stampaDett(int pag,String tit, String aut) {
-		System.out.println(pag+tit+aut);
-	}
-	
+		
 	public void stampaDett() {
 		System.out.println("Il libro "+ titolo +" dell'autore "+ autore +" ha "+ pagine + " pagine");
 	}
