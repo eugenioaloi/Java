@@ -1,0 +1,6 @@
+Creare una classe che astragga il concetto di “città”.
+
+Dopodiché dichiarare una classe Nazione che dichiari una variabile d’istanza capitale di tipo Citta. 
+
+Infine creare una classe Esercizio2Z che istanzi una Nazione con una capitale, e stampi una frase che verifichi l’effettiva associazione tra la nazione
+ e la capitale.

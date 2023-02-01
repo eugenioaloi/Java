@@ -1,0 +1,16 @@
+TEORIA DIETRO ALL'ESERCIZIO 2Z
+
+Il concetto di città parte dalla classe Citta. La città ha un nome.
+
+Il costruttore prende il nome della città. 
+In questo modo si può definire il nome della città ogni volta che si costruisce una nuova città.
+
+public Citta (String città) -> qui viene definito il nome della città
+
+La nazione ha un nome e una capitale di tipo Citta.
+Il costruttore della nazione prende il riferimento passato dal'oggetto di tipo Citta e dal nome che viene dato alla nazione
+
+In questa astrazione la città fornita per semplicità didattica è anche la capitale della nazione dichiarata.
+
+Il costruttore restituisce a ogni nuova creazione il nome della nazione e la sua capitale
+public Nazione(String naz, Citta cap) -> qui viene definito il nome della città
