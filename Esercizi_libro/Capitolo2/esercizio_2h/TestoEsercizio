@@ -1,0 +1,18 @@
+Creare una classe Rettangolo, equivalente alla classe Quadrato creata nell’esercizio 2.d e
+perfezionata negli esercizi successivi
+
+Creare una classe TestRettangolo che contenga un metodo main e che testi la classe 
+Rettangolo, equivalentemente a come abbiamo fatto nell’esercizio 2.f. 
+
+Questa volta si istanzino almeno due rettangoli diversi.
+
+Aggiungere alla classe Rettangolo creata un metodo chiamato stampaDettagli, che stampa i dettagli della figura geometrica in questione, 
+compresi perimetro e area
+
+---------------------------
+FORMULE:
+
+Base -> lunghezza di un lato
+Altezza -> (l*rad3)/2 -> rad3 = 1.732
+Perimetro del triangolo -> l*nl
+Area del triangolo -> (bxh)2

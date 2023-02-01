@@ -1,0 +1,6 @@
+Partendo dalla soluzione dell’esercizio precedente, creare un ulteriore metodo nelle classi Quadrato e Rettangolo, 
+chiamato dammiDettagli, che restituisce la stessa stringa che veniva stampata nel metodo stampaDettagli. 
+
+Dopo averlo creato, fare in modo che il metodo stampaDettagli, sfrutti il metodo dammiDettagli in modo tale da non duplicare il codice.
+
+Creare una classe chiamata TestQuadrilateri che stampa i dettagli di un quadrato e di un rettangolo.
