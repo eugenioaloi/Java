@@ -1,0 +1,7 @@
+Creare una classe Libro, che definisce le variabili che si ritiene opportuno,
+ un costruttore che ci permetta di inizializzarle, ed un metodo stampaDettagli, sul modello del metodo definito nella classe Contatto dell’esercizio 2.y. 
+
+Creare anche una classe TestLibro che testa il funzionamento della classe Libro, 
+che istanzia due libri e chiami il metodo stampaDettagli per ognuno di loro. 
+
+Controllare se la stampa ottenuta è quella desiderata.
