@@ -1,0 +1,14 @@
+Creare una classe con un metodo main che, utilizzando un ciclo for, selezioni i primi 10 numeri 
+divisibili per 3, e li stampi dopo averli concatenati con una stringa in modo tale che l’output del 
+programma sia:
+
+Numero multiplo di 3 = 3
+Numero multiplo di 3 = 6
+Numero multiplo di 3 = 9
+Numero multiplo di 3 = 12
+Numero multiplo di 3 = 15
+Numero multiplo di 3 = 18
+Numero multiplo di 3 = 21
+Numero multiplo di 3 = 24
+Numero multiplo di 3 = 27
+Numero multiplo di 3 = 30

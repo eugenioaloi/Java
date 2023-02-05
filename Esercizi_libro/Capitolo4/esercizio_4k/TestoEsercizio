@@ -1,0 +1,4 @@
+Creare una classe chiamata PariODispari che definisca una metodo chiamato dammiPariODispari, 
+che restituisca in maniera casuale la stringa “Pari” o “Dispari”. 
+
+Creare anche una classe di test che invocando tale metodo stampi il risultato.

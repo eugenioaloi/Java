@@ -1,0 +1,6 @@
+Creare una classe CalcolaAreaTriangolo, che calcola l’area di un triangolo che abbia come base il valore 3.8,
+come altezza il valore 5.4, e ne stampi il risultato. 
+
+Usare solo una classe con metodo main, che dichiari delle variabili in maniera leggibile.
+
+È possibile anche settare i valori delle variabili tramite un oggetto Scanner

@@ -1,0 +1,7 @@
+Creare un programma che:
+
+• crei un array di tipi carattere, con tutte le lettere dell’alfabeto;
+• utilizzi un metodo (statico) della classe java.util.Arrays per stampare il suo contenuto 
+sotto forma di stringa. 
+
+Cercare nella documentazione ufficiale il metodo adatto allo scopo.

@@ -1,0 +1,6 @@
+Sfruttando la classe PariODispari creata nell’esercizio precedente, creare una classe chiamata 
+TestaOCroce che definisca un metodo chiamato dammiTestaOCroce che utilizzando
+un’espressione switch, restituisca la stringa “Testa” o “Croce”. 
+
+Creare anche una classe di test che 
+invocando tale metodo stampi il risultato.

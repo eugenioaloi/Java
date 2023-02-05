@@ -1,0 +1,4 @@
+Creare una classe CalcolaPerimetroQuadrato, che calcola il perimetro 
+di un quadrato che abbia come lunghezza del lato il valore 17, 
+e ne stampi il risultato. Usare questa volta solo una classe con metodo main, 
+che dichiari delle variabili in maniera leggibile.

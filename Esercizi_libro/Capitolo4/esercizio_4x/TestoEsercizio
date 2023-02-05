@@ -1,0 +1,11 @@
+Utilizzando la classe TestaOCroce definita nella soluzione dell’esercizio 4.l, creare una classe 
+chiamata GiocoTestaOCroce, che simuli il lancio di una moneta, e che permetta all’utente di 
+indovinare se uscirà “Testa” o “Croce”. 
+
+Il programma inizialmente permette di specificare il numero di lanci da fare. 
+
+Il programma dovrà contare il numero di volte che l’utente ha indovinato il risultato del lancio e 
+il numero di volte che non ha indovinato, e dovrà decidere se l’utente ha vinto la partita oppure no.
+
+Il programma dovrà stampare un messaggio finale con la vittoria o la sconfitta dell'utente.
+

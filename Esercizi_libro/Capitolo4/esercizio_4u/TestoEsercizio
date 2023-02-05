@@ -1,0 +1,7 @@
+Dichiarare una classe che utilizza la classe Scanner, che permette all’utente di interagire con la 
+classe CalcolatriceSemplificata: 
+
+l’utente deve poter scrivere il primo operando, specificare il secondo operando e selezionare 
+da una lista l’operazione da eseguire.
+
+Il programma deve restituire il giusto risultato

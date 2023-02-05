@@ -1,0 +1,4 @@
+Sfruttano la proprietà dei tipi char di essere compatibili con il tipo intero, scrivere una classe con il 
+metodo main, che sfruttando un ciclo for, inizializzi la seguente variabile:
+
+char alfabeto [] = new char[26];

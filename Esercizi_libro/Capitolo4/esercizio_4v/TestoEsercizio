@@ -1,0 +1,7 @@
+Dichiarare una classe StranaCalcolatrice che dati un numero imprecisato di numeri definisca i 
+metodi per:
+
+1. Sommarli.
+2. Moltiplicarli.
+3. Restituire il numero più grande (il massimo).
+4. Restituire il numero più piccolo (il minimo).

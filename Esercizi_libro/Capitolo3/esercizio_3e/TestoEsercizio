@@ -1,0 +1,10 @@
+Creare una classe Risultato che dichiara una sola variabile d’istanza di tipo float di nome risultato.
+
+Aggiungere eventuali metodi e costruttori utili. 
+
+Creare una classe CambiaRisultato che dichiara un metodo public di nome cambiaRisultato che prende in input 
+un oggetto di tipo Risultato e ne modifica la variabile interna risultato sommandola con un altro valore.
+
+Creare una classe con un metodo main di nome TestRisultato che stampi la variabile risultato di unoggetto 
+di tipo Risultato, prima e dopo che questo oggetto sia passato in input al metodo cambiaRisultato 
+di un oggetto di tipo CambiaRisultato.

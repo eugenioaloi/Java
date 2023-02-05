@@ -1,0 +1,3 @@
+Creare una classe TestArgs con un metodo main che stampa la variabile args[0]. 
+
+Quindi testarla passando vari input da riga di comando.

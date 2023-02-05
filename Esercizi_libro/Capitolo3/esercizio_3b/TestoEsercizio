@@ -1,0 +1,14 @@
+Implementare una classe Persona che dichiari le variabili nome, cognome, eta (età). 
+
+Si dichiari inoltre un metodo dettagli che restituisca in una stringa le informazioni sulla 
+persona in questione.
+
+Implementare una classe Principale che, nel metodo main, istanzi due oggetti chiamati persona1 
+e persona2 della classe Persona, inizializzando per ognuno di essi i relativi campi utilizzando 
+l’operatore dot.
+
+--------------
+
+Dichiarare un terzo reference (persona3) che punti ad uno degli oggetti già istanziati. 
+Controllare che effettivamente persona3 punti all'oggetto voluto, stampando i campi di 
+persona3 sempre mediante l’operatore dot.

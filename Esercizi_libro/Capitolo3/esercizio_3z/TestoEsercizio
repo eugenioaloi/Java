@@ -1,0 +1,9 @@
+Creare una classe Pagella che astragga il concetto di pagella scolastica.
+Essa deve avere le seguenti informazioni:
+
+• nome, cognome e classe dell’alunno; <- classe Alunno
+• una tabella che associ per ogni materia, il voto e il giudizio; <- classe Pagella
+
+Deve inoltre dichiarare un metodo che stampi in maniera leggibile i dati della pagella.
+
+Creare anche una classe Esercizio3Z che stampi una o più pagelle.
