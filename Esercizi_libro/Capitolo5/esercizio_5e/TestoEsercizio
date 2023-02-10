@@ -1,0 +1,18 @@
+Astrarre il concetto di moneta con una classe apposita. 
+
+Ogni moneta ha un valore:int una valuta:String e un boolean che settato a true equivale a dare
+ la definizione di centesimo. Tutte le variabil sono incapsulate.
+
+Creare una classe PortaMonete che astrae il concetto di portamonete e che può contenere al massimo 
+10 istanze di moneta. 
+
+- Creare un metodo aggiungi all’interno della classe che permetta di aggiungere una moneta al portamonete, solo se 
+la capienza del portamonete lo consente. In caso contrario impedire l'inserimento di nuove monete
+
+- Creare un metodo stato che stampi l’attuale contenuto del portamonete
+
+- Creare un metodo preleva all’interno della classe che consenta di prelevare (e quindi rimuovere) 
+una moneta dal portamonete.
+
+Commentare adeguatamente le classi
+

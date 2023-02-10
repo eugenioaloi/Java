@@ -1,0 +1,9 @@
+Creare un programma in grado di simulare una gara automobilistica tra 4 macchine.
+
+Si crei una classe Pilota in grado di fornire un nome all'oggetto di tipo Pilota.
+Si crei una classe Auto che prende in oggetto un Pilota e da un nome alla scuderia di cui fa parte.
+
+Si crei infine una classe Gara in grado di creare una griglia di partenza e un metodo corrigara() in grado 
+di far ritorna in maniera casuale il vincitore preso dalla griglia di partenza e stampare il risultato ottenuto
+
+Utilizzare l'incapsulamento come metodo per proteggere le classi.

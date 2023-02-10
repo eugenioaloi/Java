@@ -1,0 +1,27 @@
+Creare una classe Libro incapsulata, in modo tale che astragga il concetto di un libro che può 
+essere venduto in una libreria. 
+
+Tra i campi definiti dalla classe Libro, deve esserci il campo genere (inteso come genere letterario). 
+
+Fare in modo che un libro possa essere associato solo ad un genere letterario compreso tra un insieme di 
+generi letterari predefiniti, per esempio l’insiemecostituito dai generi romanzo, thriller, saggio, manuale.
+
+Creare inoltre la classe Scaffale. 
+
+Ogni scaffale deve essere dedicato ad un certo genere letterario compreso e quindi deve contenere solo libri 
+dello stesso genere. 
+
+Nella classe Scaffale deve esserci un metodo chiamato aggiungiLibro(Libro libro), che permette di aggiungere 
+allo scaffale un libro con il genere corretto. C
+
+Creare anche la classe Libreria che implementa il pattern Singleton.
+
+Una libreria deve contenere un solo scaffale per ogni genere, e quindi bisogna impedire che possano essere
+aggiunti due scaffali con lo stesso genere. 
+ 
+Infine creare una classe TestLibreria, che crea un oggetto di tipo Libreria aggiungendogli degli oggetti 
+di tipo Scaffale ai quali siano stati oggetti di tipo Libro. 
+
+Verificare che alla libreria non possano essere aggiunti due scaffali con lo stesso genere, e che ad uno 
+scaffale non possano essere aggiunti libri con generi diversi da quello definito dallo scaffale
+ 
